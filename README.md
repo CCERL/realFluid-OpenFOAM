@@ -57,7 +57,7 @@ Documentation and usage examples are provided in the respective source repositor
 The detail implementation and extension guide are also provided. They are written for the development in OpenFOAM-6 but they can be referred for the development in other versions. 
 
 ## Authors 
-This package was developed at the Clean Combustion & Energy Research Lab., Dept. of Mech. Engineering, Ulsan National Institute of Science and Technology (UNIST), Korea ([Prof. C.S. Yoo](https://csyoo.unist.ac.kr/)). If you publish results obtained by using this package, please cite our paper as follows:
+These packages were developed at the Clean Combustion & Energy Research Lab., Dept. of Mech. Engineering, Ulsan National Institute of Science and Technology (UNIST), Korea ([Prof. C.S. Yoo](https://csyoo.unist.ac.kr/)). If you publish results obtained by using this package, please cite our paper as follows:
 
 - D. N. Nguyen, K. S. Jung, J. W. Shim, C. S. Yoo, Real-fluid thermophysicalModels: An OpenFOAM-based library for reacting flow simulations at high pressure, Comput. Phys. Commun. 273 (2022) 108264.
 
